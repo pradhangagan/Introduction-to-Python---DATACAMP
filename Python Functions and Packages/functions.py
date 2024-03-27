@@ -1,3 +1,4 @@
+# Functions
 # Piece of reusable code
 # Solves particular task
 # Call function instead of writing code yourself
