@@ -3,9 +3,9 @@
 # Each script = module
 # Specify functions, methods,types
 # Thousands of packages available
-# NumPy
-# Matplotlib
-# scikit-learn
+# NumPy -> to efficiently work with arrays
+# Matplotlib -> for data visualization
+# scikit-learn -> for machine learning
 
 # To use the constant pi, you'll need the math package. A variable r is already coded in the script. 
 # Fill in the code to calculate C and A and see how the print() functions create some nice printouts.
